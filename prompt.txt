@@ -1,0 +1,1 @@
+Please take the attached resume pdf and convert it into JSON format with the following structure: name, contact information (email, phone), education (degree, field of study, institution, year), experience (job title, company, years, responsibilities), and skills. Example JSON format is also attached for your reference.

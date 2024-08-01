@@ -1,0 +1,27 @@
+{
+  "name": "Ajinkya Walunj",
+  "contact_information": {
+    "email": "aj.wal@example.com",
+    "phone": "123-456-7890"
+  },
+  "education": [
+    {
+      "degree": "Bachelor of Technology",
+      "field_of_study": "Computer Science",
+      "institution": "University ABC",
+      "year": 2023
+    }
+  ],
+  "experience": [
+    {
+      "job_title": "Software Engineer",
+      "company": "Tech XYZ",
+      "years": "2022-2023",
+      "responsibilities": [
+        "Developed web applications",
+        "Collaborated with cross-functional teams"
+      ]
+    }
+  ],
+  "skills": ["Python", "Machine Learning", "Data Analysis"]
+}

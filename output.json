@@ -1,0 +1,89 @@
+{
+  "name": "Ajinkya Walunj",
+  "contact_information": {
+    "email": "ajinkya8975@gmail.com",
+    "phone": "+91 8010535969"
+  },
+  "education": [
+    {
+      "degree": "B-Tech",
+      "field_of_study": "Computer Engineering",
+      "institution": "Vishwakarma Institute of Technology",
+      "year": "Present"
+    }
+  ],
+  "experience": [
+    {
+      "job_title": "Certificate in Cognizant Artificial Intelligence Job Simulation",
+      "company": "Forage",
+      "years": "May 24 - Jun 24",
+      "responsibilities": [
+        "Conducted exploratory data analysis using Python and Google-Colab for one of Cognizant’s technology-led clients, Gala Groceries.",
+        "Prepared a Python module that contains code to train a model and output the performance metrics for the Machine Learning engineering team.",
+        "Communicated findings and analysis results back to the business."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Customer Churn Prediction",
+      "technologies": ["Python", "Pandas", "Scikit-learn", "EDA", "Matplotlib"],
+      "duration": "Jun 24 - July 24",
+      "details": [
+        "Performed data-handling and Exploratory Data Analysis (EDA) to identify trends and patterns in customer behavior.",
+        "Implemented multiple models, including Logistic Regression and Random Forest on both imbalanced and balanced (applied SMOTE) data.",
+        "Evaluated and compared results of Logistic Regression and Random Forest on both balanced and imbalanced data on classification metrics like accuracy, precision, and recall."
+      ]
+    },
+    {
+      "title": "Video Translation System (Guided by – Atlas Copco)",
+      "technologies": ["Python", "Whisper-AI", "NLP", "Fine-tuning LLM", "OpenAI API"],
+      "duration": "Mar 24 - May 24",
+      "details": [
+        "Successfully implemented speech to text using Whisper-AI, making subtitle generation more efficient.",
+        "Fine-tuned LLM (GPT) on videos provided by Atlas Copco to translate text from English to German and French.",
+        "Compared results of subtitle text-translation using BLEU score metric for multiple pre-trained machine-translation models, achieving high BLEU scores for French and German translations."
+      ]
+    },
+    {
+      "title": "Fish Species Identification",
+      "technologies": ["Python", "Deep Learning", "Web-Scrapping", "Flutter", "OpenAI API"],
+      "duration": "Feb 23 - Apr 23",
+      "details": [
+        "Developed a mobile application for Android platforms to identify fish species.",
+        "Integrated multiple datasets to create a comprehensive dataset.",
+        "Performed image data loading, pre-processing, model building, training, hyper-parameter tuning, and provided real-time location-based pricing.",
+        "Achieved an accuracy of 94.55% and tested the app on various fish species in local markets."
+      ]
+    }
+  ],
+  "skills": {
+    "languages": ["Java (Intermediate)", "Python (Beginner)", "C language (Intermediate)", "R (Beginner)", "JavaScript (Intermediate)"],
+    "libraries": ["Scikit-Learn (Intermediate)", "TensorFlow (Beginner)", "React (Beginner)"],
+    "tools": ["Git (Beginner)", "MySQL (Intermediate)"],
+    "others": [
+      "Data Structures and Algorithms", "HTML", "CSS", "Natural Language Processing (NLP)",
+      "DBMS", "Operating System", "Computer Network", "Compiler Design",
+      "Artificial Intelligence", "Data Science", "Object Oriented Programming",
+      "Fine-tuning LLMs", "Generative-AI", "Prompt Engineering"
+    ],
+    "soft_skills": ["Teamwork", "Leadership", "Communication"]
+  },
+  "achievements": [
+    {
+      "title": "\"Fishify: A Mobile-Based Fish Species Identification App with Transfer Learning Using MobileNetV1\"",
+      "details": "Presented at SmartCom 2024 and subsequently published by Springer."
+    },
+    {
+      "title": "“Edu-lingo: A Unified NLP Video System with Comprehensive Multilingual Subtitles”",
+      "details": "Published as research by IEEE in IEEE Xplore."
+    }
+  ],
+  "extra_curricular": [
+    {
+      "activity": "Volunteered for ‘Vatsalya’ activity conducted by SW&D committee VIT Pune",
+      "year": 2022,
+      "details": "This activity aims to connect with old age homes and spend joyful time with the elderly."
+    }
+  ]
+}
